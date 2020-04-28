@@ -69,6 +69,48 @@ Auto generated store procedures with different return results
 Generated methods and models are working with repository based on JSON results. Models generated to create SQL repositories and create interfaces based on SP names.
 
 
+# Create project with SSRS.exe
+
+**1.Open new project**
+
+***
+
+![Step 1](http://144.76.151.107/01.png)
+
+
+**2.Open add table tab and enter your table name or select schema**
+
+***
+
+![Step 2](http://144.76.151.107/02.png)
+
+
+**3.Add property or FK**
+
+***
+
+![Step 3](http://144.76.151.107/03.png)
+
+
+**4. Enter project name and start build project**
+
+***
+
+![Step 4](http://144.76.151.107/04.png)
+
+
+**5. Open open projects in account menu and wait for download link**
+
+***
+
+![Step 5](http://144.76.151.107/05.png)
+
+
+**6.Download link is available for 1 day and 5 download times**
+
+***
+
+![Step 6](http://144.76.151.107/06.png)
 
 
 
