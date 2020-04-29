@@ -1,4 +1,0 @@
-PlatformName=AnyCPU
-Configuration=Release
-WPPAllFilesInSingleFolder=G:\Pro\ManagerHelper\ManagerHelper\obj\Release\Package\PackageTmp
-WebPublishProfileFile=G:\Pro\ManagerHelper\ManagerHelper\Properties\PublishProfiles\Publishing.pubxml
