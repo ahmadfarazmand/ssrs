@@ -6,6 +6,7 @@ In my projects, I always implement the project scaffold with SQL in this way, an
 **I shared my code generator demo version. Create a REST for your database in short time by designing the database you want according to the intended framework in SSRS user interface. 10 SQL table available for free code generation each 10 days.**
 Download sample output solution or download SSRS exe project and start create your REST in a few minutes.
 
+**[Read Documentation In C# Corner](https://www.c-sharpcorner.com/article/sql-server-rest-scaffolding/)**
 
 ### SQL Server Auto Generate Output Results:
 1.	Generate script for designed tables and relations
